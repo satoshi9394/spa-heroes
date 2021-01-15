@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Heroes = () => {
+const HeroesScreen = () => {
   return (
     <div>
       <h1>Heroe Screen</h1>
@@ -8,4 +8,4 @@ const Heroes = () => {
   )
 }
 
-export default Heroes
+export default HeroesScreen
